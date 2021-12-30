@@ -1,24 +1,10 @@
-# README
+# MediaCookie
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+MediaCookie's backend webserver, firebase is nice but i can't just depend everything upon it.
 
 * Ruby version
-
-* System dependencies
-
-* Configuration
+2.7.5
 
 * Database creation
+PostgreSQL
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
